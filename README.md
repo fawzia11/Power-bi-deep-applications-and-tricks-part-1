@@ -13,6 +13,10 @@ This repository contains all dashboards and charts I built while following a com
 ## Video Reference
 I followed this course: (https://www.youtube.com/watch?v=FwjaHCVNBWA) 
 
+"📂 Download the full Power BI file from here
+."
+https://github.com/fawzia11/Power-bi-deep-applications-and-tricks-part-1/blob/main/applications%20for%20the%20course.pbix
+
 ## Screenshots
 Here are some previews of my dashboards:
 <img width="1326" height="733" alt="Screenshot 2025-09-24 165949" src="https://github.com/user-attachments/assets/669c96f9-746f-43a1-93f3-92cc8fe8e86a" />
